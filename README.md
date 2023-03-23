@@ -6,13 +6,11 @@
 
 - 🌱 I’m currently learning **Flutter, ReactJS, NodeJS, DevOps**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/UtsavDesai26/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Bhavypatel45/)
 
-- 📝 I regularly write articles on [Medium](https://utsavdesai26.medium.com/)
+- 📫 How to reach me through [Mail](mailto:bhavyghaghra@gmail.com)
 
-- 📫 How to reach me through [Mail](mailto:desaiutsav26@gmail.com)
-
-- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/utsavdesai26/)
+- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/bhavy-ghaghra/)
 
 - 💬 Ask me about anything tech related, I am happy to help
 
@@ -26,11 +24,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/utsavdesai26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utsavdesai26" height="30" width="40" /></a>
-<a href="https://utsavdesai26.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="utsavdesai26" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/utsavdesai26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="utsavdesai26" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/UtsavDesai26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utsavdesai26" height="30" width="40" /></a>
-<a href="https://leetcode.com/UtsavDesai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utsavdesai26" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhavy-ghaghra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhavypatel45" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/bhavyghaghra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Bhavyghaghra" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Bhvyghaghra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Bhavyghaghra" height="30" width="40" /></a>
+<a href="https://leetcode.com/Bhavyghaghra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Bhavyghaghra" height="30" width="40" /></a>
 </p>
 
 <br />
@@ -40,8 +37,8 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UtsavDesai26&show_icons=true&locale=en&layout=compact" alt="20it120-jimmy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhavypatel45&show_icons=true&locale=en&layout=compact" alt="20it120-jimmy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UtsavDesai26&show_icons=true&locale=en" alt="20it120-jimmy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhavypatel45&show_icons=true&locale=en" alt="20it120-jimmy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavDesai26&" alt="20it120-jimmy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavypatel45&" alt="20it120-jimmy" /></p>
